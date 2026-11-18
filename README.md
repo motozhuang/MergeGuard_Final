@@ -1,4 +1,4 @@
-# MergeGuard — Cloud Security Checks for GitHub Pull Requests test1
+# MergeGuard — Cloud Security Checks for GitHub Pull Requests test2
 
 **CS6620 Fundamentals of Cloud Computing | Team:** Mingyuan Zhuang, Snahil Singh Dasawat, Zihao Wang.
 
