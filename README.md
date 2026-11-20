@@ -6,7 +6,7 @@
 
 MergeGuard integrates the **course-provided JavaScript SAST scanner** into a GitHub pull-request workflow. The course permits using **one or both** of its tools, so the API pentester is intentionally out of scope. It detects hardcoded secrets, injection patterns, XSS and other issues before PR merge. Developers see a GitHub Check and a dashboard report.
 
-## Architecture (deployed DynamoDB-report variant)
+## Architecture 
 
  The diagram groups services by function to keep the end-to-end flow readable. The scanner runs in private VPC subnets and uses a NAT gateway for outbound access.
 
